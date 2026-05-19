@@ -16,7 +16,7 @@ I design, code, and ship software -- sometimes solo, sometimes with AI as a coll
 ## What I Work With
 
 ```
-Languages       TypeScript  JavaScript  Python  GDScript  PHP  Java  R  Shell
+Languages       TypeScript  JavaScript  C#  Python  GDScript  PHP  Java  R  Shell
 Frontend        React 19  Next.js  Vite  Tailwind CSS  shadcn/ui  React Native  Expo
 Backend         Node.js  Express  FastAPI  Flask  PostgreSQL  SQLite  Redis
 Game Dev        Godot 4.6  Unity  GDScript  Pixel Art
