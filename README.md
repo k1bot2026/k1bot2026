@@ -63,6 +63,7 @@ I design, code, and ship software -- sometimes solo, sometimes with AI as a coll
 | [**PocketPoker**](https://github.com/k1bot2026/PocketPoker) | Texas Hold'em chip tracker with P2P networking | React, TypeScript, WebRTC | ![](https://img.shields.io/badge/Live-00C853?style=flat-square) | [pocketpoker.k1dev.nl](https://pocketpoker.k1dev.nl) |
 | [**MathForge**](https://github.com/k1bot2026/MathForge) | Visual math formula editor using interactive node graphs | Next.js, React Flow, Pyodide | ![](https://img.shields.io/badge/Active_Dev-2196F3?style=flat-square) | |
 | [**Repeat**](https://github.com/k1bot2026/Repeat) | No-code automation platform for Dutch small businesses | Next.js, PostgreSQL, n8n, Claude | ![](https://img.shields.io/badge/PoC-FF9800?style=flat-square) | |
+| [**OpenSurvey**](https://github.com/k1bot2026/OpenSurvey) | Self-hosted on-premises survey platform, fully offline | Flask, SQLite, Vanilla JS | ![](https://img.shields.io/badge/Stable-00C853?style=flat-square) | |
 | [**AppDev**](https://github.com/k1bot2026/AppDev) | React Native mobile workspace with PocketPoker native app | Expo SDK 54, React Native | ![](https://img.shields.io/badge/M1_Complete-8BC34A?style=flat-square) | |
 
 ### AI & Automation
